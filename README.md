@@ -1,4 +1,4 @@
 biocosas.github.io
 ==================
 
-Some shared bioinformatics resources
+Web page of the BioCosas team
